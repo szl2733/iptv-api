@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-10-07 18:26:38,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
+2025-10-08 06:22:22,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -550,9 +550,11 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 哈哈炫动,http://[2409:8087:1a0b:df::4001]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225657/index.m3u8
 哈哈炫动,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225657/2.m3u8
 哈哈炫动,http://[2409:8087:74d9:21::6]/000000001000PLTV/88888888/224/3221226618/index.m3u8
+欢笑剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225771/index.m3u8
 法治天地,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225994/index.m3u8
 法治天地,https://cc06.tv12.xyz/42.m3u8
 第一财经,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/5000000010000027146/index.m3u8?channel-id=bestzb&Contentid=5000000010000027146&livemode=1&stbId=3
+都市剧场,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225762/index.m3u8
 
 ☘️重庆频道,#genre#
 
@@ -666,7 +668,6 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 ☘️山西频道,#genre#
 
 ☘️安徽频道,#genre#
-宿松新闻综合,http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️吉林频道,#genre#
@@ -681,6 +682,7 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 安多卫视,http://[2409:8087:1a0b:df::4007]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225659/index.m3u8
 西宁新闻综合,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
 西宁生活服务,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd#https://liveout.xntv.tv/a65jur/90p2i1.m3u8#http://dtrmlive.qhdtrm.cn/xnds/sd/live.m3u8
+青海都市,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221225749/index.m3u8
 
 ☘️黑龙江频道,#genre#
 黑龙江文体,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226239/index.m3u8
@@ -715,6 +717,7 @@ CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:1a0b:df::4014]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/index.m3u8
 黑莓电影,http://[2409:8087:2001:20:2800:0:df6e:eb08]/ott.mobaibox.com/PLTV/3/224/3221227520/index.m3u8
+靖天映画,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055
 靖天戏剧,http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058
 
 🎥咪咕直播,#genre#
@@ -782,12 +785,12 @@ CCTV-5+,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888
 爱体育,http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060&IASHttpSessionId=OTT19019320240419154124000281
 爱体育,http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000000/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000060
 超级体育,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+睛彩广场舞,http://[2409:8087:1e01:20::3]:80/PLTV/11/224/3221226139/index.m3u8
 睛彩广场舞,http://13937899.xyz:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://missyao.com:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 睛彩广场舞,http://zjzcf.synology.me:35455/itv/3000000020000011523.m3u8?cdn=FifastbLive
 天元围棋,https://cc06.tv12.xyz/47.m3u8
 快乐垂钓,https://cc06.tv12.xyz/56.m3u8
-JJ斗地主,https://live.iill.top/douyin/685317364746
 
 🪁动画频道,#genre#
 动漫秀场,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001196/index.m3u8?
