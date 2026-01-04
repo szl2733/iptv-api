@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-04 18:25:37,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
+2026-01-05 06:24:46,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -522,11 +522,14 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
+永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed
 永嘉新闻综合,http://l.cztvcloud.com/channels/lantian/SXyongjia1/720p.m3u8?zzhed&quot;
 新昌新闻综合,https://l.cztvcloud.com/channels/lantian/SXxinchang1/720p.m3u8
+庆元综合,http://l.cztvcloud.com/channels/lantian/SXqingyuan1/720p.m3u8
 余杭综合,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 余杭未来E,http://l.cztvcloud.com/channels/lantian/SXyuhang3/720p.m3u8?zzhed
 余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?
+余姚综合,https://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 余姚新闻综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8?cWlkPSZzPTg3OWMwYmMyZDMzYTFhZGY3NDQxMjgyYTg1MmUzNTY0JmVzPTE3MDY2Nzc4NzMmdXVpZD0yMjdiY2MzNGNiNGY0MThlYjRiY2IxYzcwNmZjODNkMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD10eF9waG9uZV9saXZl
 
 ☘️北京频道,#genre#
@@ -688,7 +691,6 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 新县综合,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
 新蔡综合,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8?zhend
-泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 渑池新闻综合,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
 温县综合,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8?zhend
@@ -698,19 +700,14 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
 郏县综合,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8?zhend
 郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
-郸城新闻综合,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8?wsSecret=df15530a0abec41b14bca00fc96270d1&wsTime=1654956569
-鄢陵综合,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
 项城新闻,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
 新野综合,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend
 宜阳综合,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8?zhend
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
 内黄综合,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8?zhend
-偃师新闻,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
-白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 新疆卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225635/index.m3u8
@@ -759,8 +756,8 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 凤凰香港,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888910/224/3221226251/index.m3u8
 凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk
 凤凰香港,https://cdn.iptv8k.top/dl/jrys.php?id=18&time=20240926215313&ip=111.229.253.40
-纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=292&time=20240926215313&ip=111.229.253.40
+纬来体育,https://cdn.iptv8k.top/dl/jrys.php?id=291&time=20240926215313&ip=111.229.253.40
 Viutv,https://cdn.iptv8k.top/dl/jrys.php?id=78&time=20240926215313&ip=111.229.253.40
 东森综合,https://cdn.iptv8k.top/dl/jrys.php?id=220&time=20240926215313&ip=111.229.253.40
 
