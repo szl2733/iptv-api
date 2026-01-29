@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-01-29 18:42:24,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
+2026-01-30 06:33:28,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
 
 📺央视频道,#genre#
 CCTV-1,http://[2409:8087:74f0:22::4]:6610/270000001128/9900000501/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000501
@@ -732,6 +732,7 @@ CETV2,http://gslbmgsplive.miguvideo.com/migu/kailu/cetv2/50/20240709/index.m3u8?
 ☘️安徽频道,#genre#
 安徽国际,https://www.ahtv.cn/folder9000/folder20193?channelIndex=6
 安徽影视,https://www.ahtv.cn/folder9000/folder20193?channelIndex=3
+亳州农村,http://zbbf2.ahbztv.com/live/418.m3u8?zanhd
 
 ☘️吉林频道,#genre#
 延边卫视,http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226516/index.m3u8
