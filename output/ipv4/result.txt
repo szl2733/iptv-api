@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-03-17 06:39:16,https://event.pull.hebtv.com/jishi/cp1.m3u8
+2026-03-17 18:55:33,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 
@@ -10,6 +11,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 兵器科技,http://38.75.136.137:98/gslb/dsdqpub/gfjs.m3u8?auth=testpub
 
 📡卫视频道,#genre#
+湖南卫视,http://74.91.26.218:82/live/hnwshd.m3u8
+东方卫视,http://bp-resource-dfl.bestv.cn/155/3/video.m3u8
 青海卫视,http://38.75.136.137:98/gslb/dsdqpub/qhws.m3u8?auth=testpub
 
 ☘️广东频道,#genre#
@@ -52,8 +55,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️河北频道,#genre#
 
 ☘️甘肃频道,#genre#
-白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 白银综合,https://play.kankanlive.com/live/1720408089419110.m3u8
+白银综合,http://play.kankanlive.com/live/1720408089419110.m3u8
 
 ☘️新疆频道,#genre#
 
@@ -70,6 +73,8 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 🌊港·澳·台,#genre#
 
 🎬电影频道,#genre#
+CHC家庭影院,http://156.238.248.80:8880/play/59.m3u8
+CHC动作电影,http://156.238.248.80:8880/play/58.m3u8
 
 🎥咪咕直播,#genre#
 
