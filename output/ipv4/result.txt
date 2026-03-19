@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-03-19 06:37:04,http://107.150.60.122/live/cctv5p.m3u8
+2026-03-19 18:48:05,http://107.150.60.122/live/cctv5p.m3u8
 
 📺央视频道,#genre#
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
@@ -55,8 +55,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 ☘️河南频道,#genre#
 
 ☘️河北频道,#genre#
-
-☘️甘肃频道,#genre#
 
 ☘️新疆频道,#genre#
 
