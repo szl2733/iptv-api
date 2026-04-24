@@ -1,18 +1,16 @@
 🕘️更新时间,#genre#
-2026-04-24 19:10:10,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
+2026-04-25 06:44:13,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 
 📺央视频道,#genre#
 CCTV-2,http://38.75.136.137:98/gslb/dsdqbv/cctv2hd.m3u8?auth=test20251009
 CCTV-4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
 CCTV-5+,http://38.75.136.137:98/gslb/dsdqbv/cctv5p.m3u8?auth=test20251009
+CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV-7,http://38.75.136.137:98/gslb/dsdqbv/cctv7hd.m3u8?auth=test20251009
-CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://38.75.136.137:98/gslb/dsdqbv/cctv12hd.m3u8?auth=test20251009
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,http://38.75.136.137:98/gslb/dsdqbv/cctv14hd.m3u8?auth=test20251009
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
-
-💰央视付费频道,#genre#
 
 📡卫视频道,#genre#
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
@@ -23,7 +21,6 @@ CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
 
 ☘️广东频道,#genre#
-广东珠江,https://iptv.catvod.com/catvod?id=%E5%B9%BF%E4%B8%9C%E7%8F%A0%E6%B1%9F&line=2
 
 ☘️浙江频道,#genre#
 嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
