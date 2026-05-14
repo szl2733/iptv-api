@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-05-14 19:55:28,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-15 07:00:30,http://74.91.26.218:82/live/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
@@ -10,6 +10,7 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 📡卫视频道,#genre#
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
+重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 西藏卫视,http://107.150.60.122/live/xzws.m3u8
