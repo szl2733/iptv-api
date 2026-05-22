@@ -1,9 +1,10 @@
 🕘️更新时间,#genre#
-2026-05-22 20:24:09,http://74.91.26.218:82/live/cctv5hd.m3u8
+2026-05-23 07:05:23,http://74.91.26.218:82/live/cctv5hd.m3u8
 
 📺央视频道,#genre#
 CCTV-5,http://74.91.26.218:82/live/cctv5hd.m3u8
 CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -18,18 +19,17 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 ☘️广东频道,#genre#
 
 ☘️浙江频道,#genre#
+嘉兴新闻综合,https://m3u8channel.yunxya.com/nmip-media/channellive/channel100028/playlist.m3u8
 
 ☘️北京频道,#genre#
 
 ☘️上海频道,#genre#
-都市剧场,https://shcm-stream-cf1.stream.264788.xyz/cms001/ch00000090990000001203/index.m3u8?streamid=fd36352c039198fe0978687774e97e59&streamkey=0WsC3jqv5pZMcRRCygo4VTlOTvi9bTCwlnIuuJUBjnBWTwcjoCuCI96qfPqPDVNZ0aqEUXrCtmdYiA55XouMxl7kXeqYtnnZLSPxmTgKz4J1lElEFPNAHdBzm&token=1775754833-0c24e6f296307991-0-4b1ed6441088c73ad4569aca7aa649a5
 
 ☘️重庆频道,#genre#
 
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
 镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8?wsSession=a263bdc5a26cd01b57a80359-170493712215358&wsIPSercert=f56bd6194d219a5172dbed60eca6e9b0
 
 ☘️湖北频道,#genre#
 
