@@ -1,12 +1,7 @@
 🕘️更新时间,#genre#
-2026-05-31 07:02:12,http://198.204.240.250:82/live/cctv1.m3u8
+2026-05-31 19:42:36,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 
 📺央视频道,#genre#
-CCTV-1,http://198.204.240.250:82/live/cctv1.m3u8
-CCTV-1,http://69.30.245.50/live/cctv1.m3u8
-CCTV-5+,http://107.150.60.122/live/cctv5p.m3u8
-CCTV-6,http://198.204.240.250:82/live/cctv6.m3u8
-CCTV-6,http://69.30.245.50/live/cctv6.m3u8
 CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
@@ -16,7 +11,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 湖北卫视,http://107.150.60.122/live/hbwshd.m3u8
 重庆卫视,http://107.150.60.122/live/cqwshd.m3u8
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
-广西卫视,http://107.150.60.122/live/gxwshd.m3u8
 
 ☘️广东频道,#genre#
 
