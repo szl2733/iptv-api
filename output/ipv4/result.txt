@@ -1,8 +1,7 @@
 🕘️更新时间,#genre#
-2026-07-21 07:04:08,http://222.223.41.27:8888/hls/12/index.m3u8
+2026-07-21 19:49:54,https://event.pull.hebtv.com/jishi/cp1.m3u8
 
 📺央视频道,#genre#
-CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
@@ -23,7 +22,6 @@ CCTV-17,http://74.91.26.218:82/live/cctv17hd.m3u8
 
 ☘️江苏频道,#genre#
 镇江二套社会民生,http://zjtv-wshls.homecdn.com/live/2aa16.m3u8
-镇江新闻综合,http://zjtv-wshls.homecdn.com/live/2aa50.m3u8
 
 ☘️湖北频道,#genre#
 
