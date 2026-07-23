@@ -1,8 +1,9 @@
 🕘️更新时间,#genre#
-2026-07-23 19:54:16,http://121.57.88.206:898/hls/3/index.m3u8
+2026-07-24 06:59:49,http://121.57.88.206:898/hls/3/index.m3u8
 
 📺央视频道,#genre#
 CCTV-3,http://121.57.88.206:898/hls/3/index.m3u8
+CCTV-10,https://cdn4.skygo.mn/live/disk1/CCTV-10/HLSv3-FTA/CCTV-10.m3u8
 CCTV-12,http://222.223.41.27:8888/hls/12/index.m3u8
 CCTV-13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV-14,https://event.pull.hebtv.com/jishi/cp2.m3u8
